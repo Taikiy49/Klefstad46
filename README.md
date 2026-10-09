@@ -1,3 +1,16 @@
+<div align="center">
+  <h1>Klefstad46</h1>
+  <p>ICS 46 C++ coursework with a custom String implementation, allocation tracking, and GoogleTest scaffolding.</p>
+</div>
+
+## About this repository
+
+This repository preserves coursework and instructor-provided build/test scaffolding from UCI. Homework is organized across branches; the original instructions below describe the current default branch. Course authors retain attribution for their templates and instructions. This repository is a learning archive, not an independently authored teaching framework.
+
+Use `git branch -r` to inspect available homework branches.
+
+---
+
 # ICS 46: Homework 1
 
 Welcome to ICS 46 Homework 1! Instructions from this point on will assume the use
